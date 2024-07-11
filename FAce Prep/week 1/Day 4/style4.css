@@ -1,0 +1,42 @@
+p{
+    font-size: 16px;
+    text-align: center;
+   
+}
+.yellow{
+    background-color: rgb(33, 97, 99);
+    text-align: center;
+}
+h3+p:hover{
+    background-color: yellow;
+}
+h1{
+    font-size: 24px;
+    color: blue;
+    text-align: center;
+}
+.two{
+    text-align: center;
+    border-style: solid;
+    border-color: black;
+    width: 50%;
+    
+}
+.red{
+    border-color: red;
+}
+h3{
+    text-align: center;
+}
+p:hover{
+   color: rgb(111, 84, 84);
+   text-align: center;
+
+}
+ul>li,h4{
+    
+    font-weight: bold;
+}
+h1+h2{
+    color: brown;
+}
